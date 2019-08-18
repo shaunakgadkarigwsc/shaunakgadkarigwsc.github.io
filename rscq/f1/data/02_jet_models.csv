@@ -1,0 +1,7 @@
+Model,Maker,Manned?,Mass (kg),Diameter (mm),Length (mm),Volume (cm^3),Max Thrust (N),Actual Acceleration (m/s^2),Min Fuel Consumption (mL/min),Max Fuel Consumption (mL/min),Electrical Output (W)
+TJ23U,PBS Velka Bites,Unmanned,1.98,121,316,3633.688585,230,116.1616162,126,650,0
+TJ40-G1,PBS Velka Bites,Unmanned,3.3,147,304,5159.38735,395,119.6969697,230,1260,150
+TJ40-G2,PBS Velka Bites,Unmanned,3.8,147,373,6330.432504,395,103.9473684,230,1230,300
+TJ100,PBS Velka Bites,Manned,19.5,272,625,36316.81108,1300,66.66666667,700,3120,650
+TJ150,PBS Velka Bites,Manned,19.6,272,520,30215.58681,1500,76.53061224,,,600
+TJ80,PBS Velka Bites,Manned,12,235,514,22294.03738,900,75,460,2300,750

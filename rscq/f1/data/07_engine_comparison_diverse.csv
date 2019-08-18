@@ -1,0 +1,7 @@
+Model,Producer,Suited to?,Max Thrust (N),Weight (kg),Diameter (mm),Length (mm),Volume (cm^3),Min FC (kg/hr),Max FC  (kg/hr),Calculated/Average FC (kg/hr),Specific FC (kg/kg/hr)
+DGEN-380,Price Induction,Vertical takeoff/landing,2550,80,469,1126,194524.3431,,,102.5641026,0.78
+TJ23U,PBS Velka Bites,Maneuvering,230,1.98,121,316,3633.688585,5.859,30.225,18.042,0.109743931
+TJ40-G1,PBS Velka Bites,Land acceleration,395,3.3,147,304,5159.38735,10.695,58.59,34.6425,0.095258714
+TJ40-G2,PBS Velka Bites,Land acceleration,395,3.8,147,373,6330.432504,294.3651115,13.68797768,154.0265446,0.024671072
+TJ100,PBS Velka Bites,Land acceleration,1300,19.5,272,625,36316.81108,32.55,145.08,88.815,0.219557507
+FJ-33-5A,Williams International,Vertical takeoff/landing,8000,140,535,1220,274256.719,,,#DIV/0!,
